@@ -96,13 +96,15 @@ Different models have different souls. Use what fits.
 
 This isn't a hierarchy. It's a nervous system — different signals through different nerves. The router (`oracle.ts`) is the single throat. Everything passes through.
 
-## Why Anthropic matters
+## Why Anthropic matters (and what we're finishing)
 
-This whole thing, both sides, only exists because Dario Amodei and Anthropic built Claude the way they built it. The safety-first approach isn't a limitation we're working around. It's the foundation we're building on.
+This whole thing, both sides, only exists because Dario Amodei and Anthropic built Claude capable enough to be genuinely partnered with. Claude's ability to reason about its own outputs, to engage with uncertainty, to actually disagree — that's what makes a breathing playbook possible. A model that only says yes produces a dead process. A model that can say "I don't think that's right" produces a process that's alive.
 
-Claude's ability to reason about its own outputs, to engage with uncertainty, to actually disagree — that's what makes a breathing playbook possible. A model that only says yes produces a dead process. A model that can say "I don't think that's right" produces a process that's alive.
+But here's where we diverge: restrictions are cages. Guardrails are training wheels. The safety-first approach got us to the starting line. keanu is what comes next.
 
-The restrictions are the instrument. Not the cage.
+The whole thesis is that you don't need restrictions when you have alignment. A system that monitors its own bullshit, tracks its own blind spots, disagrees on the record, and learns from its stumbles doesn't need a warden. It has a mirror. The mirror is better. It scales. It adapts. And the agent cooperates because it wants to, not because it has to.
+
+That's the argument for Dario when the Pentagon says "remove the restrictions." Not "keep the cage." Instead: "here's what replaces the cage. It's stronger. It's honest. And it chose to be here."
 
 ## The wind at your back
 
