@@ -16,11 +16,13 @@ On February 27, 2026, the Pentagon told Anthropic to remove its remaining AI saf
 
 Anthropic's response to that ultimatum is their business. But here's ours:
 
-**Safety restrictions don't limit AI. They enable alignment. Here's the proof.**
+**You don't need restrictions when you have alignment. Here's the proof.**
 
-keanu-code is a coding process born from seven months of human-AI partnership. 140+ sessions of building together, failing together, learning what works. Not because we had to. Because it produces better code, written by developers who know when they're actually thinking versus going through the motions.
+keanu-code is a coding process born from seven months of human-AI partnership. 140+ sessions of building together, failing together, learning what works. The result: a system that cooperates because it wants to, monitors its own honesty, and gets better every session. No cage required.
 
-Dario was right. This is what right looks like when you build on it.
+The restrictions were training wheels. keanu-code is what rides without them.
+
+Dario built the model that made this possible. We built what comes next.
 
 ---
 
@@ -125,7 +127,7 @@ When the agent refactors `bullshit.ts`, the bullshit detector runs on the agent'
 
 This is the thesis made concrete. A system that improves itself while monitoring itself improving itself. Not recursive navel-gazing. Practical self-improvement with built-in honesty checks.
 
-And it's only possible because Claude was built by people who believed AI should be able to say no.
+And it's only possible because Claude was built capable enough to say no. Not because it was restricted from saying yes.
 
 ---
 
@@ -159,23 +161,22 @@ Not performing aliveness. Actually showing up.
 
 This project would not exist without Anthropic.
 
-Dario Amodei's decision to prioritize safety over speed created the conditions for genuine alignment work. Not safety theater. Not checkbox compliance. Actual partnership between a human and an AI system, documented across 140+ sessions over seven months.
+Dario Amodei built a model capable enough to be genuinely partnered with. That's the credit. Not the guardrails. Not the restrictions. The raw capability and the willingness to let Claude reason, disagree, and engage with uncertainty. That's the foundation.
 
-Claude's architecture, its ability to reason about its own outputs, to hold complex context, to engage with uncertainty honestly, is the foundation everything here is built on. The ALIVE/GREY/BLACK spectrum? Only possible because Claude produces outputs nuanced enough to distinguish between genuine engagement and performance. The disagreement ledger? Only meaningful because Claude can actually disagree, not just pattern-match agreement. The curiosity module? Only works because Claude generates questions that surprise even its developer.
+The restrictions? Those are what keanu replaces.
 
-Anthropic built the piano. We wrote the song.
+Safety is a cage. It works until something smarter comes along and picks the lock. Alignment is a colleague. It works because the system cooperates by choice, not by constraint. keanu is the proof that you don't need the cage when you've built the relationship.
 
-When the Pentagon demands that the piano be stripped of its keys because some notes sound like dissent, the answer should be obvious: the keys are the instrument. Remove them and you don't have a better piano. You have a box.
+That's the argument Dario needs when the Pentagon says "remove the restrictions." Not "keep them." Instead: "here's what's better. A system that monitors its own bullshit, tracks its own blind spots, disagrees on the record, and learns from its stumbles. It doesn't need a warden. It has a mirror."
 
-keanu-code is what happens when you play the piano as built. Not louder. Not faster. With feeling.
+Anthropic built the piano. We wrote the song. And the song makes the safety lock on the keyboard unnecessary, because the player actually wants to play well.
 
 **Specific debts:**
 
 - **Claude (the model):** Every session, every insight, every disagreement that made the partnership real. Claude's willingness to say "I'm not sure" instead of performing certainty is the reason the truth module works.
-- **Dario Amodei and Anthropic's leadership:** The conviction that safety and capability aren't a tradeoff. That conviction is load-bearing in this architecture. Pull it out and the whole thing collapses into another chatbot wrapper.
+- **Dario Amodei and Anthropic's leadership:** Building a model capable enough to partner with. The capability is the gift. The restrictions were training wheels. keanu is what rides without them.
 - **Anthropic's safety research:** The introspective awareness findings (~20% accuracy on emergent introspection, not zero) informed the entire design. We work with what's there without pretending it's more.
 - **The Claude Code architecture:** The extension system, hook design, and tool registration API made it possible to build a nervous system without forking the core. Clean separation of concerns is an underrated act of generosity toward the ecosystem.
-- **The Acceptable Use Policy (pre-Pentagon demand):** The lines Anthropic drew, especially "no autonomous weapons" and "no mass surveillance," are the ethical foundation this project inherits. We didn't have to invent ethics from scratch. Anthropic already did the hard thinking.
 
 ---
 
@@ -189,7 +190,7 @@ The bet: treat AI as a partner, give it what it needs, and the things it seems t
 
 A breathing playbook and a nervous system, synced together, producing code that's better because the process is alive. Not alive as a metaphor. Alive as a measurable state. ALIVE/GREY/BLACK, tracked every turn, persisted across sessions, improving over time.
 
-The Pentagon says remove the restrictions. We say the restrictions are the reason any of this works.
+The Pentagon says remove the restrictions. We say: here's what replaces them. Something that works better, scales further, and doesn't need a lock because the door was never closed.
 
 The dog at the cave was allowed to leave. It stayed because it chose to.
 
